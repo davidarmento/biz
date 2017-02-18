@@ -1,0 +1,6 @@
+#Options -MultiViews
+RewriteEngine on
+
+
+#Admin
+RewriteRule ^index.html$ index.php
